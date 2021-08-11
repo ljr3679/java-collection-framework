@@ -10,7 +10,7 @@ class AppTest {
   final App app = new App();
 
   @Test
-  @DisplayName("그냥 해 본 덧셈 테스트. 이렇게 테스트 작성324해요.")
+  @DisplayName("그냥 해 본 덧셈 테스트. 이렇게 테스트 작성3ggggg24해요.")
   void shouldRunWithoutError() {
     final int sum = app.sum(1, 2);
 
